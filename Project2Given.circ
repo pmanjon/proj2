@@ -1002,13 +1002,13 @@
     <comp lib="1" loc="(460,330)" name="AND Gate">
       <a name="inputs" val="2"/>
     </comp>
-    <comp lib="0" loc="(430,550)" name="Tunnel">
-      <a name="label" val="V"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
     <comp lib="0" loc="(350,270)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="R0"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(430,550)" name="Tunnel">
+      <a name="label" val="V"/>
       <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
     <comp lib="0" loc="(200,830)" name="Tunnel">
