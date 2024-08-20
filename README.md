@@ -1,10 +1,11 @@
 # Project 2 README
 
-Student 1: Full Name 1 (123456789)
-Student 2: Full Name 2 (123456798)
+Student 1: Pablo Manjon Gamez (919966976)
+Student 2: Stephanie Hsia (920141803)
 
 ## Project Status
 This the current status of the project ...
+Just started
 
 ## Known Issues
 The project fails to function properly in ...
