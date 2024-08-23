@@ -1076,30 +1076,10 @@
       <a name="label" val="RisValid"/>
       <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
-    <comp lib="0" loc="(570,110)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="Bit1"/>
-      <a name="width" val="10"/>
-    </comp>
-    <comp lib="0" loc="(570,150)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="Bit2"/>
-      <a name="width" val="10"/>
-    </comp>
-    <comp lib="0" loc="(570,190)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="Bit2"/>
-      <a name="width" val="10"/>
-    </comp>
     <comp lib="0" loc="(570,310)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="C1"/>
       <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(570,70)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="Bit0"/>
-      <a name="width" val="10"/>
     </comp>
     <comp lib="0" loc="(60,100)" name="Pin">
       <a name="appearance" val="classic"/>
